@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --header-home-paragraph: Poppins;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-smi: 13px;
+  --font-size-mini: 15px;
+  --font-size-lg: 18px;
+  --font-size-base: 16px;
+  --font-size-11xl: 30px;
+  --font-size-3xs: 10px;
+  --header-home-paragraph-size: 20px;
+  --font-size-6xl: 25px;
+  --font-size-29xl: 48px;
+  --font-size-13xl: 32px;
+  --font-size-21xl: 40px;
+  --font-size-sm: 14px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --putih: #fefefe;
+  --color-gray-100: #828282;
+  --abu-abu-gelap-2: #757575;
+  --text: #2a2a2a;
+  --header-black: #1d1d1f;
+  --hitam: #1e1c1c;
+  --color-firebrick-100: #c82828;
+  --color-firebrick-200: #bd2222;
+  --color-firebrick-300: #b82121;
+  --color-firebrick-400: #c00000;
+  --color-firebrick-500: #aa0000;
+  --color-whitesmoke: #f5f5f5;
+  --abu-abu-gelap: #bbb;
+  --color-indianred-100: #b05959;
+  --color-indianred-200: #bc4b56;
+  --color-indianred-300: #934343;
+  --color-indianred-400: rgba(176, 89, 89, 0.5);
+  --color-sienna: #98402e;
+  --color-dimgray: #707070;
+  --color-snow: #fff9f9;
+  --color-tomato: #ff4040;
+  --gray-100: #cfd3d6;
+  --tertiary-merah: #8f0000;
+
+  /* Gaps */
+  --gap-2xs: 11px;
+
+  /* Border radiuses */
+  --br-11xl: 30px;
+  --br-6xs: 7px;
+  --br-xl: 20px;
+  --br-3xs: 10px;
+  --br-31xl: 50px;
+  --br-481xl: 500px;
+  --br-281xl: 300px;
+  --br-81xl: 100px;
+}
